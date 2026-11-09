@@ -1,4 +1,4 @@
-data,casos_liquidos,obitos_liquidos,hospitalizados_reportados,jurisdicoes,casos_informados,obitos_informados,hospitalizacoes_informadas,cobertura_completa
+fecha,casos_netos,fallecimientos_netos,hospitalizados_reportados,jurisdicciones,casos_informados,fallecimientos_informados,hospitalizaciones_informadas,cobertura_completa
 2020-01-13,0,0,,1,1,1,0,False
 2020-01-14,0,0,,1,1,1,0,False
 2020-01-15,0,0,,1,1,1,0,False

@@ -1,4 +1,4 @@
-coluna,nulos,percentual_nulos,tipo_original
+columna,nulos,porcentaje_nulos,tipo_original
 grade,20780,100.0,float64
 dataQualityGrade,20780,100.0,float64
 positiveTestsPeopleAntigen,20147,96.95380173243502,float64

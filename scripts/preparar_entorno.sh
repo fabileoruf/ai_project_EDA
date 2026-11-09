@@ -14,5 +14,5 @@ else
   .venv/bin/python -m pip install -r requirements.txt
 fi
 
-.venv/bin/python scripts/baixar_dados.py
-printf '\nAmbiente preparado. Abra notebooks/eda_covid19.ipynb e selecione o Python de .venv.\n'
+.venv/bin/python scripts/descargar_datos.py
+printf '\nEntorno preparado. Abre notebooks/eda_covid19.ipynb y selecciona el Python de .venv.\n'

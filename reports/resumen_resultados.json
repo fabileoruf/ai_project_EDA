@@ -1,0 +1,51 @@
+{
+  "filas_brutas": 20780,
+  "columnas_brutas": 56,
+  "jurisdicciones": 56,
+  "fecha_inicial": "2020-01-13",
+  "fecha_final": "2021-03-07",
+  "inicio_cobertura_completa": "2020-03-16",
+  "dias_cobertura_completa": 357,
+  "total_casos": 28756489.0,
+  "total_fallecimientos": 515151.0,
+  "fecha_pico_casos": "2021-01-08",
+  "pico_casos_valor": 295121,
+  "fecha_pico_fallecimientos": "2021-02-12",
+  "pico_fallecimientos_valor": 5427,
+  "mes_mayor_casos": "2020-12",
+  "mes_mayor_casos_valor": 6323266,
+  "top3": [
+    {
+      "estado": "CA",
+      "casos": 3501394
+    },
+    {
+      "estado": "TX",
+      "casos": 2686818
+    },
+    {
+      "estado": "FL",
+      "casos": 1909209
+    }
+  ],
+  "top3_participacion_pct": 28.158587093160087,
+  "correlacion_casos_fallecimientos": 0.9673019432698533,
+  "pares_casos_fallecimientos": 56,
+  "duplicados_exactos": 0,
+  "columnas_mas_80_pct_nulos": 15,
+  "nulos_hospitalizacion": 3441,
+  "sin_hospitalizacion_final": [
+    "AS",
+    "MP",
+    "VI"
+  ],
+  "correcciones_casos": 24,
+  "correcciones_fallecimientos": 73,
+  "correcciones_pruebas": 49,
+  "valores_atipicos_fallecimientos": [
+    "CA",
+    "TX",
+    "NY",
+    "FL"
+  ]
+}

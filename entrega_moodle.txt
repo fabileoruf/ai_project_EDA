@@ -1,0 +1,11 @@
+Proyecto EDA: COVID-19 en Estados Unidos — nivel medio
+
+Repositorio de GitHub: https://github.com/fabileoruf/ai_project_EDA
+
+El repositorio incluye el notebook ejecutado y explicado paso a paso, README con instrucciones de instalación y ejecución, requirements.txt, nueve visualizaciones y las tablas de resultados.
+
+El análisis aborda la calidad y limpieza de los datos, valores atípicos, agrupaciones, nuevas variables, correlaciones y tendencias temporales, y responde a cuatro preguntas de investigación.
+
+Informe ejecutivo de dos páginas: https://github.com/fabileoruf/ai_project_EDA/blob/main/reports/informe_ejecutivo.pdf
+
+Fuente: COVID Tracking Project. Datos históricos del 13/01/2020 al 07/03/2021.

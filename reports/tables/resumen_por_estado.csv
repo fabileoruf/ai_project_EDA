@@ -1,4 +1,4 @@
-estado,registros,primeira_data,ultima_data,mediana_incremento_casos,revisoes_casos,hospitalizacoes_informadas,cobertura_hospitalizacao_pct
+estado,registros,primera_fecha,ultima_fecha,mediana_incremento_casos,revisiones_casos,hospitalizaciones_informadas,cobertura_hospitalizacion_pct
 AK,367,2020-03-06,2021-03-07,75.0,0,324,88.28337874659401
 AL,366,2020-03-07,2021-03-07,1034.5,0,349,95.35519125683061
 AR,367,2020-03-06,2021-03-07,662.0,1,351,95.64032697547684
