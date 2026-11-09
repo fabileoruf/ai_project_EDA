@@ -1,0 +1,7 @@
+{
+  "source_url": "https://api.covidtracking.com/v1/states/daily.csv",
+  "documentation": "https://covidtracking.com/about-data/data-definitions/",
+  "downloaded_at_utc": "2026-11-04T11:11:05.011171+00:00",
+  "sha256": "5201fed6fa42c4d1e8e68ac143a570cdc4cd861985da84c68eb7ae7d90c065a2",
+  "bytes": 5677002
+}
